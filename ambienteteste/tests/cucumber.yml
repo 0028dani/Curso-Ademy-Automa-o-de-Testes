@@ -1,0 +1,7 @@
+---
+
+  default: --profile progress -p homolog   # << chamando o ambiente que quer trabalhar
+  pretty: --format pretty
+  progress: --format progress
+  homolog: AMBIENTE=homolog
+  producao: AMBIENTE=producao
